@@ -5,8 +5,7 @@ SPA:SSR
 
 ## commands
 
-build:client 构建客户端产物
-build:server 构建服务端产物
+dev:weapp 运行小程序
 
 ## requirements
 
